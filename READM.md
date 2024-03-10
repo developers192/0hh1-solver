@@ -1,0 +1,1 @@
+A GUI solver for the game 0hh1 or binary sudoku, based on Python.
